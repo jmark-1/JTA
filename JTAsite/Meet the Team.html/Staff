@@ -1,0 +1,55 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<body>
+    <div class="team-wrapper">
+        <div class="staff-wrapper">
+            <h2>Staff</h2>
+            <div class="grid">
+            <!--Maya-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/01/jwtOUj9y_400x400.png" alt="Maya Markovich">
+                <p class="name">Maya Markovich</p>
+                <p class="title">Executive Director</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/mayamarkovich/" 
+                    aria-label="LinkedIn: https://www.linkedin.com/in/mayamarkovich/" 
+                    class="wp-block-social-link-anchor"> 
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://twitter.com/MarkovichMaya?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" 
+                    aria-label="Twitter: https://twitter.com/MarkovichMaya?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" 
+                    class="wp-block-social-link-anchor"> 
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                </div>
+            </div>
+                <!--David-->
+                <div class="card">
+                    <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/DavidFriedman-edited.jpg" alt="David Friedman">
+                    <p class="name">David Friedman</p>
+                    <p class="title">Research Intern</p>
+                    <div class="socialbar">
+                        <a href="https://www.linkedin.com/in/davidfriedman2015" 
+                        aria-label="LinkedIn: https://www.linkedin.com/in/davidfriedman2015" 
+                        class="wp-block-social-link-anchor"> 
+                        <i class="fa fa-linkedin"></i>
+                        </a>
+                    </div>
+                </div>
+                <!--Jonathan-->
+                <div class="card">
+                    <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/JonathanMark.jpg" alt="Jonathan Mark">
+                    <p class="name">Jonathan Mark</p>
+                    <p class="title">Operations Intern</p>
+                    <div class="socialbar">
+                        <a href="https://www.linkedin.com/in/jonathanwmark/" 
+                        aria-label="LinkedIn: https://www.linkedin.com/in/jonathanwmark/"
+                        class="wp-block-social-link-anchor"> 
+                        <i class="fa fa-linkedin"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</body>

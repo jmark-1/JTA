@@ -1,0 +1,83 @@
+<div class="team-wrapper">
+    <div class="board-directors-wrapper">
+        <h2>Board of Directors</h2>
+        <div class="grid">
+            <!--Sonja-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/01/qexssO-j_400x400.png" alt="Sonja Ebron">
+                <p class="name">Sonja Ebron</p>
+                <p class="title">Founding Member, Board of Directors</p>
+                <p class="company"> CEO/Founder, <a href="https://courtroom5.com/">Courtroom5</a></p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/sonjaebron/" 
+                    aria-label="LinkedIn: https://www.linkedin.com/in/sonjaebron/"
+                    class="wp-block-social-link-anchor"> 
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://twitter.com/sonjaebron" 
+                    aria-label="Twitter: https://twitter.com/sonjaebron" 
+                    class="wp-block-social-link-anchor"> 
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                </div>
+            </div>
+            <!--Yousef-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/1617894233011.png" alt="Yousef Kassim">
+                <p class="name">Yousef Kassim</p>
+                <p class="title">Founding Member, Board of Directors</p>
+                <p class="company"> CEO, <a href="https://www.easyexpunctions.com/">EasyExpunctions.com</a></p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/kassim/" 
+                    aria-label="LinkedIn: https://www.linkedin.com/in/kassim/"
+                    class="wp-block-social-link-anchor"> 
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://twitter.com/ykassim?lang=en" 
+                    aria-label="Twitter: https://twitter.com/ykassim?lang=en" 
+                    class="wp-block-social-link-anchor"> 
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                </div>
+            </div>
+            <!--Erin-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/1626403528986.png" alt="Erin Levine">
+                <p class="name">Erin Levine</p>
+                <p class="title">Founding Member, Board of Directors</p>
+                <p class="company"> CEO/Founder, <a href="https://hellodivorce.com/">HelloDivorce</a></p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/erinlevine/" 
+                    aria-label="LinkedIn: https://www.linkedin.com/in/erinlevine/"
+                    class="wp-block-social-link-anchor"> 
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://twitter.com/erinlevine_" 
+                    aria-label="Twitter: https://twitter.com/erinlevine_" 
+                    class="wp-block-social-link-anchor"> 
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                </div>
+            </div>
+            <!--Camila-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/Headshot_Camila-Lopez-scaled.jpg" alt="Camila Lopez">
+                <p class="name">Camila Lopez</p>
+                <p class="title">Founding Member, Board of Directors</p>
+                <p class="company"> CEO/Founder, <a href="https://www.peopleclerk.com/">PeopleClerk</a></p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/camila-lopezz/" 
+                    aria-label="LinkedIn: https://www.linkedin.com/in/camila-lopezz/"
+                    class="wp-block-social-link-anchor"> 
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://twitter.com/camilopez" 
+                    aria-label="Twitter: https://twitter.com/camilopez" 
+                    class="wp-block-social-link-anchor"> 
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                </div>
+            </div>
+        </div>  
+    </div>
+</div>

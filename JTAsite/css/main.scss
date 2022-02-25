@@ -1,0 +1,44 @@
+.advisory-wrapper {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+}
+
+.advisory-wrapper .card {
+	max-width: 10rem;
+	min-height: 20;
+	margin: 2rem;
+}
+
+.advisory-wrapper .card img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 8rem;
+	height: 8rem;
+	object-fit: cover;
+	border-radius: 100%;
+}
+
+.advisory-wrapper .card .name {
+	text-align: center;
+	margin-bottom: 1rem;
+	font-size: 1.25rem;
+	font-weight: normal;
+}
+
+.advisory-wrapper .card .title {
+	text-align: center;
+	font-size: .95rem;
+}
+
+.advisory-wrapper .card .socialbar {
+	display: flex;
+    justify-content: center;
+    margin-top: 5rem
+}
+
+.resource-wrapper {
+	display: grid;
+	grid-template-columns: [first] 40px [line2] 50px [line3] auto [col4-start] 50px [five] 40px [end];
+	grid-template-rows: [row1-start] 25% [row1-end row2-start] 25% [row2-end];
+}
