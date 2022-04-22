@@ -1,7 +1,7 @@
 <body>
-    <div class="advisory-wrapper">
+    <div class="advisory-wrapper" id="advisors">
         <h2>Advisory Board</h2>
-        <p class="tagline">Representing a broad range of disciplines that intersect with Justice Tech - from VCs and impact investors to top reform advocates, academic innovators, broadcast journalists and tech leaders - our advisors are a vital component of JTA.</p> 
+        <p class="tagline">Representing a broad range of disciplines that intersect with Justice Tech – from VCs and impact investors to top reform advocates, judiciary, academic innovators, broadcast journalists and tech leaders – our advisors are a vital component of JTA.</p> 
         <div class="grid">
             <!--Kathryn Alteneder-->
             <div class="card">
@@ -57,7 +57,7 @@
             </div>
             <!--Stacy Butler-->
             <div class="card">
-                <img src="https://justicetechassociation.org/wp-content/uploads/2022/01/Stacy-Butler-scaled-e1644119308167.jpg" alt="Stacy Butler">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/03/Stacy-Butler-headshot-2022-scaled-e1646770698112.jpg" alt="Stacy Butler">
                 <p class="name">Stacy Butler</p>
                 <p class="title">Director, Innovation for Justice, Univ. of Ariz. Law</p>
                 <div class="socialbar">
@@ -133,6 +133,12 @@
                     </a>                  
                 </div>
             </div>
+            <!--Deno Himonas-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/03/Him-625-Medium-digital-1-1-scaled-e1647047866179.jpg" alt="Deno Himonas">
+                <p class="name">Deno Himonas</p>
+                <p class="title">Partner, WSGR and former Utah Supreme Court Justice</p>
+            </div>  
             <!--Brian Howe-->
             <div class="card">
                 <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/Brian-Howe-e1644983063558.png" alt="Brian Howe">
@@ -324,6 +330,19 @@
                     <i class="fa fa-linkedin"></i>
                     </a>
                 </div>
+            </div>
+            <!--Jeff Ward-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/jeffward-e1645070783811.jpeg" alt="Jeff Ward">
+                <p class="name">Jeff Ward</p>
+                <p class="title">Director, Duke Center on Law & Technology</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/jeff-ward-lawtech/" 
+                    aria-label="LinkedIn: https://www.linkedin.com/in/jeff-ward-lawtech/"
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                </div>
             </div>  
             <!--Miguel Willis-->
             <div class="card">
@@ -335,6 +354,24 @@
                     aria-label="LinkedIn: https://www.linkedin.com/in/miguelhwillis/"
                     class="wp-block-social-link-anchor">
                     <i class="fa fa-linkedin"></i>
+                    </a>
+                </div>
+            </div>    
+            <!--Damian Wilson-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/04/Damian-headshot-1.jpeg" alt="Miguel Willis">
+                <p class="name">Damian Wilson</p>
+                <p class="title">Director of Sales + Strategic Partnerships, TurnSignl</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/damianswilson/" 
+                    aria-label="LinkedIn: https://www.linkedin.com/in/damianswilson/"
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://www.turnsignl.com/" 
+                    aria-label="LinkedIn: https://www.turnsignl.com/"
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i>
                     </a>
                 </div>
             </div>                       
