@@ -215,6 +215,18 @@
                     <i class="fa fa-linkedin"></i></a>
                 </div>
             </div>
+            <!--Natalie Knowlton-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/DC3B9C7B-5B17-4B20-9DC2-2A322798A891-scaled-e1645153030998.jpeg" alt="Natalie Knowlton">
+                <p class="name">Natalie Knowlton</p>
+                <p class="title">Director of Special Projects, Institute for the Advancement of the American Legal System</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/natalieanneknowlton/"
+                    aria-label="LinkedIn: https://www.linkedin.com/in/natalieanneknowlton/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i></a>
+                </div>
+            </div>
             <!--Dan Lear-->
             <div class="card">
                 <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/danlear.jpeg" alt="Dan Lear">
