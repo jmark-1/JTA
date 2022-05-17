@@ -1,0 +1,659 @@
+<!-- wp:html -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<body>
+    <div class="team-wrapper">
+        <div class="staff-wrapper">
+            <h2>Staff</h2>
+            <div class="grid">
+            <!--Maya-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/01/jwtOUj9y_400x400.png" alt="Maya Markovich">
+                <p class="name">Maya Markovich</p>
+                <p class="title">Executive Director</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/mayamarkovich/" 
+                    aria-label="LinkedIn: https://www.linkedin.com/in/mayamarkovich/" 
+                    class="wp-block-social-link-anchor"> 
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://twitter.com/MarkovichMaya?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" 
+                    aria-label="LinkedIn: https://twitter.com/MarkovichMaya?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor" 
+                    class="wp-block-social-link-anchor"> 
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                </div>
+            </div>
+                <!--David-->
+                <div class="card">
+                    <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/DavidFriedman-edited.jpg" alt="David Friedman">
+                    <p class="name">David Friedman</p>
+                    <p class="title">Research Intern</p>
+                    <div class="socialbar">
+                        <a href="https://www.linkedin.com/in/davidfriedman2015" 
+                        aria-label="LinkedIn: https://www.linkedin.com/in/davidfriedman2015" 
+                        class="wp-block-social-link-anchor"> 
+                        <i class="fa fa-linkedin"></i>
+                        </a>
+                    </div>
+                </div>
+                <!--Jonathan-->
+                <div class="card">
+                    <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/JonathanMark.jpg" alt="Jonathan Mark">
+                    <p class="name">Jonathan Mark</p>
+                    <p class="title">Operations Intern</p>
+                    <div class="socialbar">
+                        <a href="https://www.linkedin.com/in/jonathanwmark/" 
+                        aria-label="LinkedIn: https://www.linkedin.com/in/jonathanwmark/"
+                        class="wp-block-social-link-anchor"> 
+                        <i class="fa fa-linkedin"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</body>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<div class="team-wrapper">
+    <div class="board-directors-wrapper">
+        <h2>Board of Directors</h2>
+        <div class="grid">
+            <!--Sonja-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/01/qexssO-j_400x400.png" alt="Sonja Ebron">
+                <p class="name">Sonja Ebron</p>
+                <p class="title">Founding Member, Board of Directors</p>
+                <p class="company"> CEO/Founder, <a href="https://courtroom5.com/">Courtroom5</a></p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/sonjaebron/" aria-label="LinkedIn: https://www.linkedin.com/in/sonjaebron/" class="wp-block-social-link-anchor"> 
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://twitter.com/sonjaebron" aria-label="Twitter: https://twitter.com/sonjaebron" class="wp-block-social-link-anchor"> 
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                </div>
+            </div>
+            <!--Yousef-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/1617894233011.png" alt="Yousef Kassim">
+                <p class="name">Yousef Kassim</p>
+                <p class="title">Founding Member, Board of Directors</p>
+                <p class="company"> CEO, <a href="https://www.easyexpunctions.com/">EasyExpunctions.com</a></p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/kassim/" aria-label="LinkedIn: https://www.linkedin.com/in/kassim/" class="wp-block-social-link-anchor"> 
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://twitter.com/ykassim?lang=en" aria-label="Twitter: https://twitter.com/ykassim?lang=en" class="wp-block-social-link-anchor"> 
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                </div>
+            </div>
+            <!--Erin-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/1626403528986.png" alt="Erin Levine">
+                <p class="name">Erin Levine</p>
+                <p class="title">Founding Member, Board of Directors</p>
+                <p class="company"> CEO/Founder, <a href="https://hellodivorce.com/">HelloDivorce</a></p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/erinlevine/" aria-label="LinkedIn: https://www.linkedin.com/in/erinlevine/" class="wp-block-social-link-anchor"> 
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://twitter.com/erinlevine_" aria-label="Twitter: https://twitter.com/erinlevine_" class="wp-block-social-link-anchor"> 
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                </div>
+            </div>
+            <!--Camila-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/Headshot_Camila-Lopez-scaled.jpg" alt="Camila Lopez">
+                <p class="name">Camila Lopez</p>
+                <p class="title">Founding Member, Board of Directors</p>
+                <p class="company"> CEO/Founder, <a href="https://www.peopleclerk.com/">PeopleClerk</a></p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/camila-lopezz/" aria-label="LinkedIn: https://www.linkedin.com/in/camila-lopezz/" class="wp-block-social-link-anchor"> 
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://twitter.com/camilopez" aria-label="Twitter: https://twitter.com/camilopez" class="wp-block-social-link-anchor"> 
+                        <i class="fa fa-twitter"></i>
+                    </a>
+                </div>
+            </div>
+        </div>  
+    </div>
+</div>
+<!-- /wp:html -->
+
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
+<!-- wp:html -->
+<body>
+    <div class="advisory-wrapper" id="advisors">
+        <h2>Advisory Board</h2>
+        <p class="tagline">Representing a broad range of disciplines that intersect with Justice Tech – from VCs and impact investors to top reform advocates, judiciary, academic innovators, broadcast journalists and tech leaders – our advisors are a vital component of JTA.</p> 
+        <div class="grid">
+            <!--Kathryn Alteneder-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/katherinealteneder-e1644119829209.jpeg" alt="Kathryn Alteneder">
+                <p class="name">Kathryn Alteneder</p>
+                <p class="title">Senior Strategic Advisor, Self Represented Litigation Network</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/katherine-alteneder-5028a711/" 
+                        aria-label="LinkedIn: https://www.linkedin.com/in/katherine-alteneder-5028a711/" 
+                        class="wp-block-social-link-anchor"> 
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="http://www.srln.org/"
+                    aria-label="Link: http://www.srln.org/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </a>
+                </div>
+            </div>
+            <!--Drew Amerson-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/01/DrewAmerson.jpeg" alt="Drew Amerson">
+                <p class="name">Drew Amerson</p>
+                <p class="title">Director, LexLab</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/drewamerson/" 
+                    aria-label="LinkedIn: https://www.linkedin.com/in/drewamerson/" 
+                    class="wp-block-social-link-anchor"> 
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="http://lexlab.uchastings.edu/"
+                    aria-label="Link: http://lexlab.uchastings.edu/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>
+            <!--Nicole Bradick-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/01/nicolebradick-e1644207831170.jpeg" alt="Nicole Bradick">
+                <p class="name">Nicole Bradick</p>
+                <p class="title">Founder/CEO, Theory and Principle</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/nicole-bradick-30161121/" 
+                        aria-label="LinkedIn: https://www.linkedin.com/in/nicole-bradick-30161121/" 
+                        class="wp-block-social-link-anchor">
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://www.theoryandprinciple.com/"
+                    aria-label="Link: https://www.theoryandprinciple.com/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>
+            <!--Matthew Burnett-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/01/Matthew-Burnett.png" alt="Matthew Burnett">
+                <p class="name">Matthew Burnett</p>
+                <p class="title">Senior Policy Officer for Access to Justice, American Bar Foundation</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/matthewburnett/" 
+                    aria-label="LinkedIn: https://www.linkedin.com/in/matthewburnett/" 
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://www.americanbarfoundation.org/index.html"
+                    aria-label="Link: https://www.americanbarfoundation.org/index.html"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>
+            <!--Stacy Butler-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/03/Stacy-Butler-headshot-2022-scaled-e1646770698112.jpg" alt="Stacy Butler">
+                <p class="name">Stacy Butler</p>
+                <p class="title">Director, Innovation for Justice, Univ. of Ariz. Law</p>
+                <div class="socialbar">
+                    <a href="https://law.arizona.edu/stacy-butler" 
+                        aria-label="https://law.arizona.edu/stacy-butler" 
+                        class="wp-block-social-link-anchor">
+                        <i class="fa fa-link"></i>
+                    </a>
+                    <a href=""
+                    aria-label="Link: "  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>
+            <!--Brooke Daniels-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/Brooke-Headshot-2-1-22.jpg" alt="Brooke Daniels">
+                <p class="name">Brooke Daniels</p>
+                <p class="title">Director, Salesforce Ventures</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/thebrookedaniels/" 
+                        aria-label="LinkedIn: https://www.linkedin.com/in/thebrookedaniels/" 
+                        class="wp-block-social-link-anchor">
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://www.salesforce.com/company/ventures/"
+                    aria-label="Link: https://www.salesforce.com/company/ventures/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>
+            <!--John Fernandez-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/01/johnfernandez.jpeg" alt="John Fernandez">
+                <p class="name">John Fernandez</p>
+                <p class="title">Global Chief Innovation Officer, Dentons</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/johnfernandez1/" 
+                    aria-label="LinkedIn: https://www.linkedin.com/in/johnfernandez1/" 
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="http://www.dentons.com/"
+                    aria-label="Link: http://www.dentons.com/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>
+            <!--Marcus Glover-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/1609686718202.jpeg" alt="Marcus Glover">
+                <p class="name">Marcus Glover</p>
+                <p class="title">General and Managing Partner, Lockstep Ventures</p>
+                <div class="socialbar">
+                    <a href="https://www.marcusglover.com/" 
+                    aria-label="https://www.marcusglover.com/" 
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i>
+                    </a>
+                    <a href=""
+                    aria-label="Link: "  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>
+            <!--Tom Gordon-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/01/tomgordon.jpeg" alt="Tom Gordon">
+                <p class="name">Tom Gordon</p>
+                <p class="title">Executive Director, Responsive Law</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/tom-gordon-70b4604/" 
+                        aria-label="LinkedIn: https://www.linkedin.com/in/tom-gordon-70b4604/" 
+                        class="wp-block-social-link-anchor">
+                        <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="http://responsivelaw.org/"
+                    aria-label="Link: http://responsivelaw.org/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>
+            <!--Richard Granat-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/01/richardgranat-e1644207451726.jpeg" alt="Richard Granat">
+                <p class="name">Richard Granat</p>
+                <p class="title">Publisher, The Law Product Makers Blog</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/richardgranat/"
+                    aria-label="LinkedIn: https://www.linkedin.com/in/richardgranat/"
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i>
+                    </a>  
+                    <a href="https://www.richardgranat.com/"
+                    aria-label="Link: https://www.richardgranat.com/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>              
+                </div>
+            </div>
+            <!--Deno Himonas-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/03/Him-625-Medium-digital-1-1-scaled-e1647047866179.jpg" alt="Deno Himonas">
+                <p class="name">Deno Himonas</p>
+                <p class="title">Partner, WSGR and former Utah Supreme Court Justice</p>
+                <div class="socialbar"> 
+                    <a href="http://www.wsgr.com/"
+                    aria-label="Link: http://www.wsgr.com/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>              
+                </div>
+            </div>  
+            <!--Brian Howe-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/Brian-Howe-e1644983063558.png" alt="Brian Howe">
+                <p class="name">Brian Howe</p>
+                <p class="title">Venture Partner, Stand Together Ventures Lab</p>
+                <div class="socialbar">
+                    <a href="https://stventureslab.com/team-members/brian-howe/"
+                    aria-label="https://stventureslab.com/team-members/brian-howe/"
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i>
+                    </a>              
+                </div>
+            </div>           
+            <!--Dan Jansen-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/danjensen.jpeg" alt="Dan Jansen">
+                <p class="name">Dan Jansen</p>
+                <p class="title">CEO and Managing Director, Nextlaw Ventures</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/dan-jansen-6972789/"
+                    aria-label="LinkedIn: https://www.linkedin.com/in/dan-jansen-6972789/"
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://www.nextlawventures.vc/"
+                    aria-label="Link: https://www.nextlawventures.vc/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>                
+                </div>
+            </div>
+            <!--Nyra Jordan-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/01/Nyra-Jordan-scaled-e1644207913575.jpg" alt="Nyra Jordan">
+                <p class="name">Nyra Jordan</p>
+                <p class="title">Social Impact Investment Director, American Family Insurance Institute for Corporate &amp; Social Impact</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/nyra-jordan-b1b8a63/"
+                    aria-label="LinkedIn: https://www.linkedin.com/in/nyra-jordan-b1b8a63/" 
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://www.amfaminstitute.com/"
+                    aria-label="Link: https://www.amfaminstitute.com/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>
+            <!--Batul Joffrey-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/01/Batul-Joffrey.jpg" alt="Batul Joffrey">
+                <p class="name">Batul Joffrey</p>
+                <p class="title">Investor, Kapor Capital</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/batuljoffrey/" 
+                    aria-label="LinkedIn: https://www.linkedin.com/in/batuljoffrey/" 
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://www.kaporcapital.com/"
+                    aria-label="Link: https://www.kaporcapital.com/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>
+            <!--Josh King-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/1565716543174-e1644983287778.jpeg" alt="Josh King">
+                <p class="name">Josh King</p>
+                <p class="title">Former Chief Legal Officer, Avvo</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/joshking/"
+                    aria-label="LinkedIn: https://www.linkedin.com/in/joshking/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i></a>
+                    <a href="https://www.avvo.com/"
+                    aria-label="Link: https://www.avvo.com/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>
+            <!--Sameena Kluck-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/01/Sameena-Kluck-scaled-e1644206688199.jpg" alt="Sameena Kluck">
+                <p class="name">Sameena Kluck</p>
+                <p class="title">CEO, Amplify Your Voice, LLC</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/sameenakluck/"
+                    aria-label="LinkedIn: https://www.linkedin.com/in/sameenakluck/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i></a>
+                </div>
+            </div>
+            <!--Natalie Knowlton-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/DC3B9C7B-5B17-4B20-9DC2-2A322798A891-scaled-e1645153030998.jpeg" alt="Natalie Knowlton">
+                <p class="name">Natalie Knowlton</p>
+                <p class="title">Co-Founder & A2J Policy Principal, Access to Justice Ventures</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/natalieanneknowlton/"
+                    aria-label="LinkedIn: https://www.linkedin.com/in/natalieanneknowlton/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i></a>
+                    <a href="https://www.a2jventures.com/"
+                    aria-label="Link: https://www.a2jventures.com/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>
+            <!--Dan Lear-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/danlear.jpeg" alt="Dan Lear">
+                <p class="name">Dan Lear</p>
+                <p class="title">Head of Marketing and Partnerships, Gravity Legal</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/danlear/"
+                    aria-label="LinkedIn: https://www.linkedin.com/in/danlear/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i></a>
+                    <a href="https://gravity-legal.com/"
+                    aria-label="Link: https://gravity-legal.com/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>            
+            <!--Dan Linna-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/01/DanLinnaMSULawHeadshot-scaled-e1644207558837.jpg" alt="Dan Linna">
+                <p class="name">Dan Linna</p>
+                <p class="title">Director of Law + Technology Initiatives, Northwestern University</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/danlinna/" 
+                    aria-label="LinkedIn: https://www.linkedin.com/in/danlinna/"
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i>
+                    <a href="https://www.law.northwestern.edu/student-life/events/law-and-technology/"
+                    aria-label="Link: https://www.law.northwestern.edu/student-life/events/law-and-technology/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                    </a>
+                </div>
+            </div>
+            <!--Caitlin Moon-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/01/Caitlin-Moon-scaled-e1644207632689.jpg" alt="Caitlin Moon">
+                <p class="name">Caitlin Moon</p>
+                <p class="title">#makelawbetter <span>Provocateur and Director of Innovation Design, Vanderbilt Law School</span></p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/caitlinmoon/" 
+                    aria-label="LinkedIn: https://www.linkedin.com/in/caitlinmoon/"
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i>
+                    <a href="https://law.vanderbilt.edu/"
+                    aria-label="Link: https://law.vanderbilt.edu/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                    </a>
+                </div>
+            </div>
+            <!--Jeroen Plink-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/01/jeroenplink.jpeg" alt="Jeroen Plink">
+                <p class="name">Jeroen Plink</p>
+                <p class="title">Co-Founder, Legaltech Hub</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/jeroenplink/"
+                    aria-label="LinkedIn: https://www.linkedin.com/in/caitlinmoon/"
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://www.legaltechnologyhub.com/"
+                    aria-label="Link: https://www.legaltechnologyhub.com/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>
+            <!--Chas Rampenthal-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/01/chasrampenthal.jpeg" alt="Chas Rampenthal">
+                <p class="name">Chas Rampenthal</p>
+                <p class="title">Former General Counsel and Head of Industry Relations, LegalZoom</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/chasramp/" 
+                    aria-label="LinkedIn: https://www.linkedin.com/in/chasramp/"
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://www.legalzoom.com/"
+                    aria-label="Link: https://www.legalzoom.com/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>
+            <!--Jason Solomon-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/jason-solomon-3-397x400-1.jpg" alt="Jason Solomon">
+                <p class="name">Jason Solomon</p>
+                <p class="title">Executive Director, Stanford Center for the Legal Profession</p>
+                <div class="socialbar">
+                    <a href="https://law.stanford.edu/directory/jason-solomon/" 
+                    aria-label="https://law.stanford.edu/directory/jason-solomon/" 
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i>
+                    </a>
+                    <a href="https://law.stanford.edu/stanford-center-on-the-legal-profession/"
+                    aria-label="Link: https://law.stanford.edu/stanford-center-on-the-legal-profession/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>
+            <!--Jim Sandman-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/jimsandman.jpeg" alt="Jim Sandman">
+                <p class="name">Jim Sandman</p>
+                <p class="title">President Emeritus, Legal Services Corporation</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/jim-sandman-089b0918/" 
+                    aria-label="https://www.linkedin.com/in/jim-sandman-089b0918/" 
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://www.lsc.gov/"
+                    aria-label="Link: https://www.lsc.gov/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>            
+            <!--Jason Tashea-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/01/Jason-Tashea-e1644207513372.jpg" alt="Jason Tashea">
+                <p class="name">Jason Tashea</p>
+                <p class="title">Consultant, World Bank and Editor in Chief, Justice Tech Download</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/jtashea/" 
+                    aria-label="LinkedIn: https://www.linkedin.com/in/jtashea/"
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://www.justicetech.download/"
+                    aria-label="Link: https://www.justicetech.download/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>
+            <!--Phil Rosenthal-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/philrosenthal.jpeg" alt="Phil Rosenthal">
+                <p class="name">Phil Rosenthal</p>
+                <p class="title">President, Fastcase, Inc.</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/phil-rosenthal-55a62/" 
+                    aria-label="LinkedIn: https://www.linkedin.com/in/phil-rosenthal-55a62/"
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://www.fastcase.com/"
+                    aria-label="Link: https://www.fastcase.com/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>
+            <!--Jeff Ward-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/jeffward-e1645070783811.jpeg" alt="Jeff Ward">
+                <p class="name">Jeff Ward</p>
+                <p class="title">Director, Duke Center on Law & Technology</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/jeff-ward-lawtech/" 
+                    aria-label="LinkedIn: https://www.linkedin.com/in/jeff-ward-lawtech/"
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://dukelawtechlab.com/"
+                    aria-label="Link: https://dukelawtechlab.com/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>  
+            <!--Miguel Willis-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/02/miguelwillis.jpeg" alt="Miguel Willis">
+                <p class="name">Miguel Willis</p>
+                <p class="title">Innovator in Residence, Future of the Profession Initiative at University of Pennsylvania Carey Law School</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/miguelhwillis/" 
+                    aria-label="LinkedIn: https://www.linkedin.com/in/miguelhwillis/"
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://www.law.upenn.edu/futureprofessioninitiative/"
+                    aria-label="Link: https://www.law.upenn.edu/futureprofessioninitiative/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>    
+            <!--Damian Wilson-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/04/Damian-headshot-1.jpeg" alt="Miguel Willis">
+                <p class="name">Damian Wilson</p>
+                <p class="title">Director of Sales + Strategic Partnerships, TurnSignl</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/damianswilson/" 
+                    aria-label="LinkedIn: https://www.linkedin.com/in/damianswilson/"
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://www.turnsignl.com/" 
+                    aria-label="LinkedIn: https://www.turnsignl.com/"
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i>
+                    </a>
+                </div>
+            </div>                       
+            <!--Molly Wood-->
+            <div class="card">
+                <img src="https://justicetechassociation.org/wp-content/uploads/2022/01/Molly-Wood-needs-crop-scaled-e1644119232838.jpg" alt="Molly Wood">
+                <p class="name">Molly Wood</p>
+                <p class="title">Managing Director, Launch</p>
+                <div class="socialbar">
+                    <a href="https://www.linkedin.com/in/mollywood/"
+                    aria-label="LinkedIn: https://www.linkedin.com/in/mollywood/" 
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-linkedin"></i>
+                    </a>
+                    <a href="https://launch.co/"
+                    aria-label="Link: https://launch.co/"  
+                    class="wp-block-social-link-anchor">
+                    <i class="fa fa-link"></i></a>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+</body>
+<!-- /wp:html -->
